@@ -7,8 +7,8 @@ Hi! I'm Raja Osama and This is my super Simple Php api that let you connect any 
 There Are simple Two End Points Via which you can perform data fetch or An Action 
 You Have to Post a Request with its type
 
-|       POST         |ASCII                          |
-|----------------|-------------------------------|-----------------------------|
+|       POST         | DETAIL                         
+|----------------|-------------------------------
 |request |            action  Or Select
 |Query|if Action then Insert , Update , Delete else Select           
 
